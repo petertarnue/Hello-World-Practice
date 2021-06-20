@@ -3,3 +3,6 @@ This is just the beginning of my study and pratices of career goal of becoming s
 Hello Everyone my name is Peter K. Tarnue. I am currently a partime employee at Youth Crime Watch of Liberia.
 
 This is just the beginning of the journing.
+
+I will continue to love my baby girl Evelyn B. Davis
+

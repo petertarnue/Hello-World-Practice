@@ -1,3 +1,5 @@
+import csv
+
 def timetable(x, y):
     x = int(input)
     y = int(input)
@@ -17,5 +19,10 @@ def love(name):
     last_name = input("Enter your last name: ")
     name = first_name +" "+ middle_name + " "+ last_name
     return name
+
+def read_me(file_name):
+    with open(file_name) as file:
+        read_file = list(csv.reader(file))
+    return read_file
 
 
