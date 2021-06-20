@@ -25,4 +25,14 @@ def read_me(file_name):
         read_file = list(csv.reader(file))
     return read_file
 
+def add(x, y):
+    if x < y:
+        sum = x + y
+    if y < x :
+        diff = y - x
+        return diff
+    return sum
+
+
+
 
