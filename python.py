@@ -33,9 +33,11 @@ def add(x, y):
         return diff
     return sum
 
-def fun(name):
-    name = input("Enter your name: ")
-    return name
+def fun(first_name, last_name):
+    first_name = input("Enter your name: ")
+    last_name = input("Enter last name: ")
+    return first_name, last_name
+
 
 
 
