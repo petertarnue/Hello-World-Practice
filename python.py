@@ -33,6 +33,9 @@ def add(x, y):
         return diff
     return sum
 
+def fun(name):
+    name = input("Enter your name: ")
+    return name
 
 
 
